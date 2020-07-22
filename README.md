@@ -1,2 +1,2 @@
 # ShoppingCart
- ShoppingCart Dicount Calculation
+ ShoppingCart Discount Calculations
